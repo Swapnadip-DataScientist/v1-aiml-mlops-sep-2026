@@ -1,0 +1,7 @@
+# pinned: MLflow's UI and defaults (skops serialization, the SQLite default store) move
+# between minor versions, and a pickled model expects the scikit-learn that wrote it
+ipython-autotime==0.3.2
+matplotlib==3.10.8
+mlflow==3.16.1
+pandas==2.3.3
+scikit-learn==1.7.2
