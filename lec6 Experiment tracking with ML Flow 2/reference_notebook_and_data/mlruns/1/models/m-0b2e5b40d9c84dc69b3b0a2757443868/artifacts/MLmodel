@@ -1,0 +1,51 @@
+artifact_path: /Users/shivam13juna/Documents/scaler/AIML_mlops/ref/lec 6 Experiment
+  tracking with ML Flow 2/current version/mlruns/1/models/m-0b2e5b40d9c84dc69b3b0a2757443868/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict_proba
+    python_version: 3.12.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+    skops_trusted_types: null
+is_signature_from_type_hint: false
+mlflow_version: 3.16.1
+model_id: m-0b2e5b40d9c84dc69b3b0a2757443868
+model_size_bytes: 5634922
+model_uuid: m-0b2e5b40d9c84dc69b3b0a2757443868
+prompts: null
+run_id: 17eb44ff9da04484885d4c8881b0b47c
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "lead_time", "required": true}, {"type": "double",
+    "name": "stays_in_weekend_nights", "required": true}, {"type": "double", "name":
+    "stays_in_week_nights", "required": true}, {"type": "double", "name": "adults",
+    "required": true}, {"type": "double", "name": "children", "required": false},
+    {"type": "double", "name": "babies", "required": true}, {"type": "double", "name":
+    "is_repeated_guest", "required": true}, {"type": "double", "name": "previous_cancellations",
+    "required": true}, {"type": "double", "name": "previous_bookings_not_canceled",
+    "required": true}, {"type": "double", "name": "days_in_waiting_list", "required":
+    true}, {"type": "double", "name": "adr", "required": true}, {"type": "double",
+    "name": "required_car_parking_spaces", "required": true}, {"type": "double", "name":
+    "total_of_special_requests", "required": true}, {"type": "string", "name": "hotel",
+    "required": true}, {"type": "string", "name": "meal", "required": true}, {"type":
+    "string", "name": "market_segment", "required": true}, {"type": "string", "name":
+    "distribution_channel", "required": true}, {"type": "string", "name": "reserved_room_type",
+    "required": true}, {"type": "string", "name": "deposit_type", "required": true},
+    {"type": "string", "name": "customer_type", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1,
+    2]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-09-30 09:14:34.931554'

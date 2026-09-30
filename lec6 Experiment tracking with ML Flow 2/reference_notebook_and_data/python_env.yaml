@@ -1,0 +1,7 @@
+# python_env.yaml: the environment `mlflow run` builds for this project's commands
+# (--env-manager uv or virtualenv; --env-manager local uses the current environment instead).
+python: "3.12"            # quoted: YAML would read a bare 3.12 as a number
+build_dependencies:
+  - pip                   # installed first; MLflow records its version with every logged model
+dependencies:
+  - -r requirements.txt   # one list of pins, the same one the notebook installs

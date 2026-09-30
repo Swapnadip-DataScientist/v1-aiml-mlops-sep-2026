@@ -1,0 +1,1091 @@
+booking_id,arrival_date,hotel,lead_time,stays_in_weekend_nights,stays_in_week_nights,adults,children,babies,meal,market_segment,distribution_channel,is_repeated_guest,previous_cancellations,previous_bookings_not_canceled,reserved_room_type,deposit_type,customer_type,days_in_waiting_list,adr,required_car_parking_spaces,total_of_special_requests
+BK218301,2017-08-25,City Hotel,239,0,1,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,189.0,0,1
+BK218302,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218303,2017-08-25,City Hotel,457,0,2,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,80.0,0,0
+BK218304,2017-08-25,City Hotel,159,0,2,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,175.5,0,0
+BK218305,2017-08-25,City Hotel,43,0,2,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,140.0,0,2
+BK218306,2017-08-25,City Hotel,115,0,2,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,195.0,0,2
+BK218307,2017-08-25,City Hotel,457,0,2,1,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,80.0,0,0
+BK218308,2017-08-25,City Hotel,457,0,2,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,80.0,0,0
+BK218309,2017-08-25,City Hotel,39,0,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,170.0,0,3
+BK218310,2017-08-25,City Hotel,115,0,2,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,195.0,0,2
+BK218311,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218312,2017-08-25,City Hotel,457,0,2,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,80.0,0,0
+BK218313,2017-08-25,City Hotel,50,0,2,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,140.0,0,2
+BK218314,2017-08-25,City Hotel,159,0,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,139.5,0,0
+BK218315,2017-08-25,City Hotel,457,0,2,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,80.0,0,0
+BK218316,2017-08-25,City Hotel,204,1,2,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,0
+BK218317,2017-08-25,City Hotel,94,1,2,2,1.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,122.45,0,0
+BK218318,2017-08-25,City Hotel,222,1,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,0
+BK218319,2017-08-25,City Hotel,222,1,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,0
+BK218320,2017-08-25,City Hotel,94,1,2,2,1.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,127.47,0,0
+BK218321,2017-08-25,City Hotel,191,1,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,126.0,0,0
+BK218322,2017-08-25,City Hotel,222,1,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,0
+BK218323,2017-08-25,City Hotel,295,1,2,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,89.1,0,0
+BK218324,2017-08-25,City Hotel,235,1,2,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,0
+BK218325,2017-08-25,City Hotel,109,1,2,2,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,142.41,0,0
+BK218326,2017-08-25,City Hotel,94,1,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,122.45,0,0
+BK218327,2017-08-25,City Hotel,94,1,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,127.47,0,0
+BK218328,2017-08-25,City Hotel,184,2,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,126.0,0,0
+BK218329,2017-08-25,City Hotel,219,2,2,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,198.0,0,0
+BK218330,2017-08-25,City Hotel,267,2,2,1,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,109.8,0,0
+BK218331,2017-08-25,City Hotel,99,2,2,2,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,132.3,0,2
+BK218332,2017-08-25,City Hotel,15,2,2,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,101.8,0,1
+BK218333,2017-08-25,City Hotel,83,2,3,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,168.0,0,0
+BK218334,2017-08-25,City Hotel,228,2,6,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,0
+BK218335,2017-08-25,City Hotel,11,0,2,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,1,D,No Deposit,Group,0,125.0,0,0
+BK218336,2017-08-25,City Hotel,205,0,1,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,0
+BK218337,2017-08-25,City Hotel,2,0,1,2,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,170.0,0,3
+BK218338,2017-08-25,City Hotel,6,0,1,2,1.0,0,BB,Corporate,Corporate,0,0,0,D,No Deposit,Transient,0,169.0,0,1
+BK218339,2017-08-25,City Hotel,43,0,1,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,140.0,0,3
+BK218340,2017-08-25,City Hotel,165,0,1,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,175.5,0,0
+BK218341,2017-08-25,City Hotel,215,0,1,2,2.0,0,BB,Direct,Direct,0,0,0,F,No Deposit,Transient,0,215.0,0,0
+BK218342,2017-08-25,City Hotel,215,0,1,2,3.0,0,BB,Direct,Direct,0,0,0,G,No Deposit,Transient,0,245.0,0,1
+BK218343,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218344,2017-08-25,City Hotel,457,0,2,1,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,23.0,0,1
+BK218345,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218346,2017-08-25,City Hotel,32,0,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,170.0,0,1
+BK218347,2017-08-25,City Hotel,457,0,2,1,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,95.5,0,1
+BK218348,2017-08-25,City Hotel,457,0,2,1,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,95.5,0,1
+BK218349,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218350,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218351,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218352,2017-08-25,City Hotel,457,0,2,1,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,95.5,0,1
+BK218353,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218354,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218355,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218356,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218357,2017-08-25,City Hotel,22,0,2,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,95.5,0,0
+BK218358,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218359,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218360,2017-08-25,City Hotel,457,0,2,1,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,95.5,0,1
+BK218361,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218362,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218363,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218364,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218365,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218366,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218367,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218368,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218369,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218370,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218371,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218372,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,114.4,0,1
+BK218373,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218374,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218375,2017-08-25,City Hotel,457,0,2,1,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,95.5,0,1
+BK218376,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218377,2017-08-25,City Hotel,457,0,2,1,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,95.5,0,1
+BK218378,2017-08-25,City Hotel,457,0,2,1,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,95.5,0,1
+BK218379,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218380,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218381,2017-08-25,City Hotel,457,0,2,1,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,95.5,0,1
+BK218382,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218383,2017-08-25,City Hotel,457,0,2,1,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,95.5,0,1
+BK218384,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218385,2017-08-25,City Hotel,30,0,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,145.0,0,1
+BK218386,2017-08-25,City Hotel,31,0,2,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,210.0,0,2
+BK218387,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218388,2017-08-25,City Hotel,200,0,2,3,2.0,0,BB,Direct,Direct,0,0,0,G,No Deposit,Transient,0,294.0,1,0
+BK218389,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218390,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218391,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218392,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218393,2017-08-25,City Hotel,131,0,2,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,244.0,0,0
+BK218394,2017-08-25,City Hotel,457,0,2,1,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,95.5,0,1
+BK218395,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218396,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218397,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218398,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218399,2017-08-25,City Hotel,457,0,2,1,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,95.5,0,1
+BK218400,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218401,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218402,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218403,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218404,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218405,2017-08-25,City Hotel,457,0,2,1,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,95.5,0,1
+BK218406,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218407,2017-08-25,City Hotel,205,0,2,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,72.42,0,1
+BK218408,2017-08-25,City Hotel,9,0,2,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,140.0,0,1
+BK218409,2017-08-25,City Hotel,457,0,2,1,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,95.5,0,1
+BK218410,2017-08-25,City Hotel,0,0,2,1,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient-Party,0,95.5,0,1
+BK218411,2017-08-25,City Hotel,457,0,2,1,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,95.5,0,1
+BK218412,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218413,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218414,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218415,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218416,2017-08-25,City Hotel,112,0,2,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,235.0,0,0
+BK218417,2017-08-25,City Hotel,457,0,2,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218418,2017-08-25,City Hotel,187,1,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,135.0,0,0
+BK218419,2017-08-25,City Hotel,169,1,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,139.5,0,1
+BK218420,2017-08-25,City Hotel,15,1,2,2,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,160.0,0,2
+BK218421,2017-08-25,City Hotel,16,1,2,2,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,160.0,0,2
+BK218422,2017-08-25,City Hotel,48,1,2,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,121.67,0,1
+BK218423,2017-08-25,City Hotel,202,1,2,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,162.0,0,0
+BK218424,2017-08-25,City Hotel,90,1,2,2,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,138.9,1,0
+BK218425,2017-08-25,City Hotel,169,1,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,139.5,0,1
+BK218426,2017-08-25,City Hotel,172,2,2,3,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,202.5,0,1
+BK218427,2017-08-25,City Hotel,267,2,2,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,166.5,0,2
+BK218428,2017-08-25,City Hotel,219,2,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,0
+BK218429,2017-08-25,City Hotel,219,2,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,1
+BK218430,2017-08-25,City Hotel,219,2,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,1
+BK218431,2017-08-25,City Hotel,200,2,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,0
+BK218432,2017-08-25,City Hotel,15,2,2,2,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,132.53,0,2
+BK218433,2017-08-25,City Hotel,267,2,2,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,166.5,0,2
+BK218434,2017-08-25,City Hotel,8,2,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,115.37,0,1
+BK218435,2017-08-25,City Hotel,278,2,3,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,89.1,0,1
+BK218436,2017-08-25,City Hotel,278,2,3,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,89.1,0,2
+BK218437,2017-08-25,City Hotel,457,2,3,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,122.4,0,1
+BK218438,2017-08-25,City Hotel,180,2,4,3,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,222.3,1,0
+BK218439,2017-08-25,City Hotel,207,3,7,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,96.25,0,2
+BK218440,2017-08-25,Resort Hotel,60,0,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,207.0,0,1
+BK218441,2017-08-25,Resort Hotel,198,1,2,1,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,151.0,0,1
+BK218442,2017-08-25,Resort Hotel,26,1,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,216.67,0,1
+BK218443,2017-08-25,Resort Hotel,31,2,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,250.0,0,2
+BK218444,2017-08-25,Resort Hotel,72,2,2,2,2.0,0,BB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,260.0,0,2
+BK218445,2017-08-25,Resort Hotel,90,2,2,2,2.0,0,BB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,270.0,0,1
+BK218446,2017-08-25,Resort Hotel,149,2,2,2,2.0,0,BB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,249.0,0,1
+BK218447,2017-08-25,Resort Hotel,150,2,3,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,229.0,0,1
+BK218448,2017-08-25,Resort Hotel,253,2,4,1,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,153.75,0,1
+BK218449,2017-08-25,Resort Hotel,167,2,4,2,2.0,0,HB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,331.33,0,0
+BK218450,2017-08-25,Resort Hotel,253,2,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,153.75,0,1
+BK218451,2017-08-25,Resort Hotel,253,2,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,153.75,0,2
+BK218452,2017-08-25,Resort Hotel,110,2,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,214.0,0,0
+BK218453,2017-08-25,Resort Hotel,253,2,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,153.75,0,1
+BK218454,2017-08-25,Resort Hotel,38,2,5,2,2.0,0,BB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,251.43,0,1
+BK218455,2017-08-25,Resort Hotel,172,2,5,3,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,259.0,0,0
+BK218456,2017-08-25,Resort Hotel,353,2,6,3,1.0,0,BB,Online TA,TA/TO,0,0,0,H,No Deposit,Transient,0,249.0,0,2
+BK218457,2017-08-25,Resort Hotel,22,2,2,2,0.0,0,BB,Direct,Direct,1,0,5,A,No Deposit,Transient,0,200.0,1,3
+BK218458,2017-08-25,Resort Hotel,0,0,1,2,0.0,0,BB,Direct,Direct,0,0,0,F,No Deposit,Transient,0,244.0,1,0
+BK218459,2017-08-25,Resort Hotel,0,0,1,2,1.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,175.0,0,0
+BK218460,2017-08-25,Resort Hotel,0,0,1,2,2.0,0,BB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient-Party,0,225.0,0,0
+BK218461,2017-08-25,Resort Hotel,1,0,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,154.0,0,1
+BK218462,2017-08-25,Resort Hotel,0,0,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,116.61,0,0
+BK218463,2017-08-25,Resort Hotel,1,0,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,171.5,0,1
+BK218464,2017-08-25,Resort Hotel,7,0,2,3,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,222.0,0,1
+BK218465,2017-08-25,Resort Hotel,2,0,2,1,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,220.0,0,1
+BK218466,2017-08-25,Resort Hotel,2,0,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,196.25,0,2
+BK218467,2017-08-25,Resort Hotel,4,0,2,2,0.0,1,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,220.0,0,3
+BK218468,2017-08-25,Resort Hotel,23,0,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,240.0,0,2
+BK218469,2017-08-25,Resort Hotel,5,0,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,274.0,1,2
+BK218470,2017-08-25,Resort Hotel,0,0,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,188.0,0,2
+BK218471,2017-08-25,Resort Hotel,4,0,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,214.0,0,2
+BK218472,2017-08-25,Resort Hotel,60,0,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,230.0,0,2
+BK218473,2017-08-25,Resort Hotel,49,1,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,157.99,0,1
+BK218474,2017-08-25,Resort Hotel,58,1,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,195.0,0,2
+BK218475,2017-08-25,Resort Hotel,2,1,2,2,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient-Party,0,227.81,0,0
+BK218476,2017-08-25,Resort Hotel,2,1,2,2,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient-Party,0,243.81,1,0
+BK218477,2017-08-25,Resort Hotel,22,1,2,2,2.0,0,HB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient-Party,0,314.67,0,2
+BK218478,2017-08-25,Resort Hotel,22,1,2,2,0.0,0,HB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient-Party,0,302.67,0,2
+BK218479,2017-08-25,Resort Hotel,36,1,2,3,0.0,0,FB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,259.0,0,0
+BK218480,2017-08-25,Resort Hotel,21,2,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,224.0,0,2
+BK218481,2017-08-25,Resort Hotel,155,2,3,2,1.0,0,HB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,236.85,0,3
+BK218482,2017-08-25,Resort Hotel,26,2,3,2,1.0,1,HB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,292.5,0,2
+BK218483,2017-08-25,Resort Hotel,7,2,4,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,190.27,0,1
+BK218484,2017-08-25,Resort Hotel,169,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Contract,0,123.5,0,0
+BK218485,2017-08-25,Resort Hotel,238,2,5,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,134.1,0,0
+BK218486,2017-08-25,Resort Hotel,172,2,5,2,0.0,0,FB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,202.0,0,0
+BK218487,2017-08-25,Resort Hotel,4,2,5,2,1.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,219.03,0,1
+BK218488,2017-08-25,Resort Hotel,128,2,5,2,2.0,0,BB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,308.57,0,2
+BK218489,2017-08-25,Resort Hotel,21,2,5,2,1.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,277.71,1,3
+BK218490,2017-08-25,Resort Hotel,270,4,10,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Contract,0,112.8,0,0
+BK218491,2017-08-25,Resort Hotel,210,4,10,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,E,No Deposit,Transient,0,103.7,0,0
+BK218492,2017-08-26,City Hotel,458,0,1,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,43.2,0,2
+BK218493,2017-08-26,City Hotel,209,0,1,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,162.0,0,0
+BK218494,2017-08-26,City Hotel,118,0,1,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,235.0,0,0
+BK218495,2017-08-26,City Hotel,210,0,1,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,220.0,0,0
+BK218496,2017-08-26,City Hotel,78,1,1,1,0.0,0,SC,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,116.0,0,0
+BK218497,2017-08-26,City Hotel,81,1,1,1,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,170.0,0,1
+BK218498,2017-08-26,City Hotel,65,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,164.0,0,0
+BK218499,2017-08-26,City Hotel,28,1,1,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,114.5,0,2
+BK218500,2017-08-26,City Hotel,89,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,109.44,0,1
+BK218501,2017-08-26,City Hotel,50,1,1,1,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,118.8,0,0
+BK218502,2017-08-26,City Hotel,64,1,1,3,0.0,0,BB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,212.8,0,1
+BK218503,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,90.0,0,0
+BK218504,2017-08-26,City Hotel,234,2,1,1,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,99.0,0,0
+BK218505,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,90.0,0,0
+BK218506,2017-08-26,City Hotel,518,2,1,1,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,80.0,0,0
+BK218507,2017-08-26,City Hotel,134,2,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,127.1,0,0
+BK218508,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,90.0,0,0
+BK218509,2017-08-26,City Hotel,237,2,1,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,189.0,0,3
+BK218510,2017-08-26,City Hotel,232,2,1,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,1
+BK218511,2017-08-26,City Hotel,33,2,3,1,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,239.8,0,1
+BK218512,2017-08-26,City Hotel,79,2,3,3,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,240.0,0,0
+BK218513,2017-08-26,City Hotel,66,2,3,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,210.0,0,0
+BK218514,2017-08-26,City Hotel,120,2,3,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,195.0,0,3
+BK218515,2017-08-26,City Hotel,162,2,3,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,235.0,0,0
+BK218516,2017-08-26,City Hotel,50,2,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,200.0,0,1
+BK218517,2017-08-26,City Hotel,19,2,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,159.8,0,0
+BK218518,2017-08-26,City Hotel,123,2,3,3,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,252.0,0,1
+BK218519,2017-08-26,City Hotel,21,2,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,159.8,0,1
+BK218520,2017-08-26,City Hotel,205,2,5,2,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,164.03,0,0
+BK218521,2017-08-26,City Hotel,9,2,5,3,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,232.57,0,1
+BK218522,2017-08-26,City Hotel,227,2,5,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,0
+BK218523,2017-08-26,City Hotel,195,2,5,2,1.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,126.0,0,0
+BK218524,2017-08-26,City Hotel,47,2,2,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,196.25,0,0
+BK218525,2017-08-26,City Hotel,71,2,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,200.0,0,0
+BK218526,2017-08-26,City Hotel,227,2,5,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,0
+BK218527,2017-08-26,City Hotel,195,2,5,2,1.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,220.0,0,0
+BK218528,2017-08-26,City Hotel,194,2,5,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,113.39,0,0
+BK218529,2017-08-26,City Hotel,195,2,5,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,126.0,0,0
+BK218530,2017-08-26,City Hotel,42,0,1,2,0.0,0,BB,Online TA,Direct,0,0,0,D,No Deposit,Transient,0,170.0,0,3
+BK218531,2017-08-26,City Hotel,122,0,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,164.0,1,1
+BK218532,2017-08-26,City Hotel,224,0,1,2,1.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,144.0,1,2
+BK218533,2017-08-26,City Hotel,2,0,1,2,1.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,239.0,0,0
+BK218534,2017-08-26,City Hotel,31,0,1,2,0.0,0,HB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,195.0,0,4
+BK218535,2017-08-26,City Hotel,0,0,1,2,2.0,0,BB,Direct,Direct,0,0,0,F,No Deposit,Transient,0,200.0,0,0
+BK218536,2017-08-26,City Hotel,12,0,1,3,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,240.0,0,1
+BK218537,2017-08-26,City Hotel,139,1,1,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,195.0,0,1
+BK218538,2017-08-26,City Hotel,326,1,1,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,89.1,0,0
+BK218539,2017-08-26,City Hotel,326,1,1,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,89.1,0,0
+BK218540,2017-08-26,City Hotel,60,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,122.4,0,1
+BK218541,2017-08-26,City Hotel,89,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,115.2,0,1
+BK218542,2017-08-26,City Hotel,89,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,115.2,0,1
+BK218543,2017-08-26,City Hotel,89,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,118.08,0,1
+BK218544,2017-08-26,City Hotel,18,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,134.5,0,1
+BK218545,2017-08-26,City Hotel,155,1,1,2,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,173.7,0,1
+BK218546,2017-08-26,City Hotel,25,1,1,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,184.5,0,3
+BK218547,2017-08-26,City Hotel,88,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,144.0,0,0
+BK218548,2017-08-26,City Hotel,89,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,115.2,0,1
+BK218549,2017-08-26,City Hotel,71,1,1,1,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,164.0,0,1
+BK218550,2017-08-26,City Hotel,6,1,1,1,0.0,0,BB,Direct,Direct,0,0,0,B,No Deposit,Transient,0,124.0,0,1
+BK218551,2017-08-26,City Hotel,49,1,1,3,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,164.1,0,2
+BK218552,2017-08-26,City Hotel,3,1,1,2,0.0,0,BB,Direct,Direct,0,0,0,B,No Deposit,Transient,0,124.0,0,1
+BK218553,2017-08-26,City Hotel,35,2,1,2,2.0,0,BB,Direct,Direct,0,0,0,E,No Deposit,Transient,0,176.64,0,1
+BK218554,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,112.67,0,1
+BK218555,2017-08-26,City Hotel,8,2,1,2,3.0,0,BB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,253.51,0,2
+BK218556,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,112.67,0,1
+BK218557,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,112.67,0,1
+BK218558,2017-08-26,City Hotel,234,2,1,2,0.0,0,BB,Direct,Direct,0,0,0,B,No Deposit,Transient,0,123.05,1,0
+BK218559,2017-08-26,City Hotel,233,2,1,2,0.0,0,BB,Direct,Direct,0,0,0,B,No Deposit,Transient,0,123.05,0,0
+BK218560,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,112.67,0,1
+BK218561,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,112.67,0,1
+BK218562,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,112.67,0,1
+BK218563,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,112.67,0,1
+BK218564,2017-08-26,City Hotel,221,2,1,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,198.0,0,1
+BK218565,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,112.67,0,1
+BK218566,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,112.67,0,1
+BK218567,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,112.67,0,1
+BK218568,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,112.67,0,1
+BK218569,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,112.67,0,1
+BK218570,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,112.67,0,1
+BK218571,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,112.67,0,1
+BK218572,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,112.67,0,1
+BK218573,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,112.67,0,1
+BK218574,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,112.67,0,1
+BK218575,2017-08-26,City Hotel,289,2,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,107.1,0,2
+BK218576,2017-08-26,City Hotel,289,2,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,107.1,0,2
+BK218577,2017-08-26,City Hotel,16,2,1,2,0.0,1,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,126.0,0,2
+BK218578,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,112.67,0,1
+BK218579,2017-08-26,City Hotel,518,2,1,1,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,0.0,0,0
+BK218580,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,112.67,0,1
+BK218581,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,112.67,0,1
+BK218582,2017-08-26,City Hotel,16,2,1,1,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,90.4,0,1
+BK218583,2017-08-26,City Hotel,518,2,1,2,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,112.67,0,1
+BK218584,2017-08-26,City Hotel,202,2,2,1,1.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,0
+BK218585,2017-08-26,City Hotel,209,2,2,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,162.0,0,0
+BK218586,2017-08-26,City Hotel,216,2,2,2,1.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,93.6,0,0
+BK218587,2017-08-26,City Hotel,13,2,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,157.25,0,1
+BK218588,2017-08-26,City Hotel,196,2,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,126.0,0,3
+BK218589,2017-08-26,City Hotel,232,2,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,119.0,0,0
+BK218590,2017-08-26,City Hotel,232,2,3,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,157.25,0,0
+BK218591,2017-08-26,City Hotel,218,2,5,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,111.92,0,4
+BK218592,2017-08-26,City Hotel,218,2,5,1,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,105.34,0,4
+BK218593,2017-08-26,Resort Hotel,0,0,1,2,0.0,0,BB,Direct,Direct,0,0,0,G,No Deposit,Transient,0,235.0,0,0
+BK218594,2017-08-26,Resort Hotel,172,0,1,3,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,207.0,0,0
+BK218595,2017-08-26,Resort Hotel,17,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,240.0,0,2
+BK218596,2017-08-26,Resort Hotel,45,2,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,243.33,0,1
+BK218597,2017-08-26,Resort Hotel,74,2,1,2,2.0,0,BB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,303.33,0,1
+BK218598,2017-08-26,Resort Hotel,143,2,1,2,2.0,0,BB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient-Party,0,295.67,0,1
+BK218599,2017-08-26,Resort Hotel,204,2,1,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,140.4,0,0
+BK218600,2017-08-26,Resort Hotel,143,2,1,2,2.0,0,BB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient-Party,0,295.67,0,1
+BK218601,2017-08-26,Resort Hotel,191,2,2,2,0.0,0,FB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,173.0,0,0
+BK218602,2017-08-26,Resort Hotel,80,2,2,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Contract,0,135.0,0,1
+BK218603,2017-08-26,Resort Hotel,181,2,2,2,2.0,0,BB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,220.0,0,1
+BK218604,2017-08-26,Resort Hotel,80,2,2,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Contract,0,135.0,0,1
+BK218605,2017-08-26,Resort Hotel,25,2,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,242.0,0,2
+BK218606,2017-08-26,Resort Hotel,29,2,4,2,2.0,0,HB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,342.17,0,0
+BK218607,2017-08-26,Resort Hotel,17,2,4,2,0.0,0,HB,Direct,Direct,0,0,0,C,No Deposit,Transient,0,262.38,0,0
+BK218608,2017-08-26,Resort Hotel,66,2,5,2,1.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,284.86,0,1
+BK218609,2017-08-26,Resort Hotel,103,2,5,2,2.0,0,BB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,251.43,0,1
+BK218610,2017-08-26,Resort Hotel,184,2,5,2,0.0,0,FB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,173.0,0,0
+BK218611,2017-08-26,Resort Hotel,142,2,5,1,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,155.0,0,0
+BK218612,2017-08-26,Resort Hotel,47,2,5,2,2.0,0,HB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,340.86,0,0
+BK218613,2017-08-26,Resort Hotel,185,2,5,3,0.0,0,FB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,251.0,0,0
+BK218614,2017-08-26,Resort Hotel,90,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,201.43,0,1
+BK218615,2017-08-26,Resort Hotel,87,2,5,2,2.0,0,HB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,299.43,0,1
+BK218616,2017-08-26,Resort Hotel,17,2,5,2,2.0,0,BB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,294.29,0,1
+BK218617,2017-08-26,Resort Hotel,3,2,5,1,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,183.13,0,0
+BK218618,2017-08-26,Resort Hotel,17,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,194.29,0,1
+BK218619,2017-08-26,Resort Hotel,212,2,5,2,1.0,0,HB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,179.89,0,0
+BK218620,2017-08-26,Resort Hotel,40,2,5,2,0.0,0,HB,Direct,Direct,0,0,0,F,No Deposit,Transient,0,293.86,0,0
+BK218621,2017-08-26,Resort Hotel,191,2,6,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,202.0,0,1
+BK218622,2017-08-26,Resort Hotel,19,4,6,2,1.0,0,FB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,245.3,0,0
+BK218623,2017-08-26,Resort Hotel,181,4,10,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,205.14,0,0
+BK218624,2017-08-26,Resort Hotel,305,4,7,2,0.0,0,BB,Online TA,TA/TO,1,0,0,D,No Deposit,Transient,0,158.6,0,3
+BK218625,2017-08-26,Resort Hotel,0,0,1,2,0.0,0,BB,Direct,Direct,1,0,0,E,No Deposit,Transient,0,200.0,0,1
+BK218626,2017-08-26,Resort Hotel,0,0,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,230.0,0,1
+BK218627,2017-08-26,Resort Hotel,0,0,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,235.0,0,0
+BK218628,2017-08-26,Resort Hotel,13,1,1,2,0.0,0,HB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,292.0,0,3
+BK218629,2017-08-26,Resort Hotel,30,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,182.0,1,1
+BK218630,2017-08-26,Resort Hotel,39,2,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,217.33,0,2
+BK218631,2017-08-26,Resort Hotel,204,2,1,2,1.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,168.6,0,2
+BK218632,2017-08-26,Resort Hotel,204,2,1,2,1.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,168.6,0,2
+BK218633,2017-08-26,Resort Hotel,23,2,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,168.0,0,1
+BK218634,2017-08-26,Resort Hotel,204,2,1,2,2.0,0,HB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,181.8,0,1
+BK218635,2017-08-26,Resort Hotel,41,2,2,2,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,266.0,1,2
+BK218636,2017-08-26,Resort Hotel,73,2,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,167.2,0,1
+BK218637,2017-08-26,Resort Hotel,59,2,3,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,230.0,0,4
+BK218638,2017-08-26,Resort Hotel,12,2,3,3,0.0,0,HB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,295.0,0,1
+BK218639,2017-08-26,Resort Hotel,59,2,3,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,230.0,0,4
+BK218640,2017-08-26,Resort Hotel,3,2,4,3,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,252.57,1,2
+BK218641,2017-08-26,Resort Hotel,37,2,4,2,0.0,0,HB,Direct,Direct,0,0,0,E,No Deposit,Transient,0,277.67,1,1
+BK218642,2017-08-26,Resort Hotel,5,2,5,2,2.0,0,HB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,336.57,1,2
+BK218643,2017-08-26,Resort Hotel,142,2,5,2,2.0,0,HB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,289.86,0,2
+BK218644,2017-08-26,Resort Hotel,142,2,5,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,169.0,0,0
+BK218645,2017-08-26,Resort Hotel,277,2,5,2,0.0,0,HB,Direct,Direct,0,0,0,E,No Deposit,Transient,0,182.06,0,2
+BK218646,2017-08-26,Resort Hotel,236,2,5,2,0.0,1,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,124.54,0,2
+BK218647,2017-08-26,Resort Hotel,184,2,5,2,0.0,1,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,123.0,1,3
+BK218648,2017-08-26,Resort Hotel,184,2,5,2,1.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,153.75,1,3
+BK218649,2017-08-26,Resort Hotel,10,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,176.86,1,1
+BK218650,2017-08-26,Resort Hotel,142,2,5,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,169.0,0,0
+BK218651,2017-08-26,Resort Hotel,26,2,5,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,166.71,0,0
+BK218652,2017-08-26,Resort Hotel,137,4,6,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Contract,0,118.5,0,0
+BK218653,2017-08-26,Resort Hotel,137,4,6,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Contract,0,118.5,0,1
+BK218654,2017-08-26,Resort Hotel,88,4,7,2,0.0,0,HB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,211.2,0,2
+BK218655,2017-08-26,Resort Hotel,208,4,9,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,101.75,0,0
+BK218656,2017-08-26,Resort Hotel,264,4,10,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,89.79,0,0
+BK218657,2017-08-26,Resort Hotel,207,4,10,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,E,No Deposit,Transient,0,131.7,0,2
+BK218658,2017-08-27,City Hotel,38,1,0,2,1.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,199.0,0,1
+BK218659,2017-08-27,City Hotel,89,1,0,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,118.0,0,1
+BK218660,2017-08-27,City Hotel,19,1,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,89.0,0,1
+BK218661,2017-08-27,City Hotel,28,1,0,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,109.0,0,1
+BK218662,2017-08-27,City Hotel,38,1,0,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,1
+BK218663,2017-08-27,City Hotel,66,1,0,1,0.0,0,SC,Online TA,GDS,0,0,0,A,No Deposit,Transient,0,130.0,0,0
+BK218664,2017-08-27,City Hotel,41,1,0,1,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,90.0,0,0
+BK218665,2017-08-27,City Hotel,14,1,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,89.0,0,1
+BK218666,2017-08-27,City Hotel,210,1,0,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,162.0,0,0
+BK218667,2017-08-27,City Hotel,116,1,0,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,185.25,0,2
+BK218668,2017-08-27,City Hotel,20,1,0,2,1.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,129.0,0,1
+BK218669,2017-08-27,City Hotel,17,1,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,89.0,0,1
+BK218670,2017-08-27,City Hotel,116,1,0,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,185.25,0,3
+BK218671,2017-08-27,City Hotel,34,1,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,89.0,0,1
+BK218672,2017-08-27,City Hotel,330,2,1,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,199.0,0,1
+BK218673,2017-08-27,City Hotel,168,2,1,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,175.5,0,0
+BK218674,2017-08-27,City Hotel,33,2,1,3,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,223.0,0,0
+BK218675,2017-08-27,City Hotel,121,2,1,3,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,252.0,0,1
+BK218676,2017-08-27,City Hotel,10,2,1,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,126.33,0,1
+BK218677,2017-08-27,City Hotel,25,2,1,3,0.0,0,BB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,210.4,0,1
+BK218678,2017-08-27,City Hotel,120,2,1,1,2.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,177.08,0,1
+BK218679,2017-08-27,City Hotel,36,2,1,3,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,223.0,0,1
+BK218680,2017-08-27,City Hotel,189,2,1,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,0
+BK218681,2017-08-27,City Hotel,158,2,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,139.5,0,0
+BK218682,2017-08-27,City Hotel,181,2,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,139.5,0,1
+BK218683,2017-08-27,City Hotel,158,2,3,3,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,202.5,0,0
+BK218684,2017-08-27,City Hotel,137,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,114.69,0,0
+BK218685,2017-08-27,City Hotel,69,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,163.71,0,1
+BK218686,2017-08-27,City Hotel,189,2,0,2,0.0,0,BB,Online TA,TA/TO,0,0,1,A,No Deposit,Transient-Party,0,119.0,0,3
+BK218687,2017-08-27,City Hotel,189,2,0,2,0.0,0,BB,Online TA,TA/TO,0,0,1,A,No Deposit,Transient,0,119.0,0,2
+BK218688,2017-08-27,City Hotel,34,1,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,89.0,0,1
+BK218689,2017-08-27,City Hotel,1,0,0,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,0.0,0,0
+BK218690,2017-08-27,City Hotel,0,1,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,80.1,0,1
+BK218691,2017-08-27,City Hotel,0,1,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,89.0,0,2
+BK218692,2017-08-27,City Hotel,0,1,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,1
+BK218693,2017-08-27,City Hotel,13,1,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,89.0,0,1
+BK218694,2017-08-27,City Hotel,0,1,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,80.1,0,1
+BK218695,2017-08-27,City Hotel,101,1,0,2,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,166.0,0,2
+BK218696,2017-08-27,City Hotel,0,1,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,75.24,0,1
+BK218697,2017-08-27,City Hotel,98,1,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,72.16,0,0
+BK218698,2017-08-27,City Hotel,1,1,0,1,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,71.28,0,1
+BK218699,2017-08-27,City Hotel,1,1,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,80.1,0,1
+BK218700,2017-08-27,City Hotel,19,1,0,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,109.0,0,1
+BK218701,2017-08-27,City Hotel,45,1,0,1,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,115.0,0,0
+BK218702,2017-08-27,City Hotel,62,1,0,1,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,95.0,0,0
+BK218703,2017-08-27,City Hotel,45,1,0,1,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,115.0,0,0
+BK218704,2017-08-27,City Hotel,25,1,0,1,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,99.0,0,2
+BK218705,2017-08-27,City Hotel,1,1,0,1,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,80.1,0,0
+BK218706,2017-08-27,City Hotel,34,1,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,98.0,0,0
+BK218707,2017-08-27,City Hotel,1,1,0,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,109.0,0,2
+BK218708,2017-08-27,City Hotel,0,1,0,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,116.1,0,0
+BK218709,2017-08-27,City Hotel,42,1,0,1,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,95.0,0,0
+BK218710,2017-08-27,City Hotel,101,1,0,2,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,166.0,0,2
+BK218711,2017-08-27,City Hotel,42,1,0,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,95.0,0,0
+BK218712,2017-08-27,City Hotel,101,1,0,2,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,166.0,0,2
+BK218713,2017-08-27,City Hotel,9,1,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,1
+BK218714,2017-08-27,City Hotel,14,1,0,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,107.1,1,2
+BK218715,2017-08-27,City Hotel,104,1,0,3,1.0,0,BB,Direct,Direct,0,0,0,E,No Deposit,Transient,0,162.0,0,1
+BK218716,2017-08-27,City Hotel,46,1,0,1,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,85.0,0,2
+BK218717,2017-08-27,City Hotel,6,1,0,2,1.0,0,SC,Direct,Direct,0,0,0,A,No Deposit,Transient,0,134.0,0,1
+BK218718,2017-08-27,City Hotel,14,1,0,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,109.0,0,1
+BK218719,2017-08-27,City Hotel,21,1,0,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,109.0,0,0
+BK218720,2017-08-27,City Hotel,1,1,0,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,111.2,0,1
+BK218721,2017-08-27,City Hotel,25,1,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,62.03,0,0
+BK218722,2017-08-27,City Hotel,1,1,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,80.1,0,1
+BK218723,2017-08-27,City Hotel,18,1,0,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,109.0,0,1
+BK218724,2017-08-27,City Hotel,23,1,0,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,98.1,0,1
+BK218725,2017-08-27,City Hotel,60,1,0,1,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,140.0,0,2
+BK218726,2017-08-27,City Hotel,0,1,0,1,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,95.0,0,0
+BK218727,2017-08-27,City Hotel,42,1,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,85.0,0,1
+BK218728,2017-08-27,City Hotel,37,1,0,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,87.2,0,1
+BK218729,2017-08-27,City Hotel,61,1,0,2,1.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,90.6,0,1
+BK218730,2017-08-27,City Hotel,3,1,0,1,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,119.0,0,1
+BK218731,2017-08-27,City Hotel,52,1,0,1,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,140.0,0,1
+BK218732,2017-08-27,City Hotel,17,2,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,114.5,0,1
+BK218733,2017-08-27,City Hotel,301,2,0,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,179.1,0,0
+BK218734,2017-08-27,City Hotel,10,2,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,119.5,0,2
+BK218735,2017-08-27,City Hotel,180,2,0,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,139.5,0,1
+BK218736,2017-08-27,City Hotel,26,2,0,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,143.5,0,2
+BK218737,2017-08-27,City Hotel,10,2,0,3,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,214.5,0,1
+BK218738,2017-08-27,City Hotel,189,2,0,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,114.0,0,1
+BK218739,2017-08-27,City Hotel,181,2,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,126.0,0,0
+BK218740,2017-08-27,City Hotel,6,2,1,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,196.33,0,2
+BK218741,2017-08-27,City Hotel,52,2,1,3,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,258.0,1,2
+BK218742,2017-08-27,City Hotel,190,2,1,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,162.0,0,2
+BK218743,2017-08-27,City Hotel,189,2,1,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,99.0,0,0
+BK218744,2017-08-27,City Hotel,29,2,1,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,233.0,0,0
+BK218745,2017-08-27,City Hotel,214,2,2,3,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,115.0,0,0
+BK218746,2017-08-27,City Hotel,82,2,2,1,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,89.1,0,0
+BK218747,2017-08-27,City Hotel,281,2,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,107.1,0,2
+BK218748,2017-08-27,City Hotel,100,2,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,89.1,0,1
+BK218749,2017-08-27,City Hotel,175,2,2,1,2.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,175.5,0,1
+BK218750,2017-08-27,City Hotel,113,2,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,185.0,0,2
+BK218751,2017-08-27,City Hotel,341,2,3,2,1.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,96.91,0,1
+BK218752,2017-08-27,City Hotel,205,2,3,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,0
+BK218753,2017-08-27,City Hotel,196,2,3,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,151.2,0,2
+BK218754,2017-08-27,City Hotel,194,2,3,2,0.0,0,SC,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,71.1,0,1
+BK218755,2017-08-27,City Hotel,140,2,3,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,235.0,0,0
+BK218756,2017-08-27,City Hotel,131,2,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,89.1,0,0
+BK218757,2017-08-27,City Hotel,140,2,3,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,235.0,0,0
+BK218758,2017-08-27,City Hotel,194,2,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,1
+BK218759,2017-08-27,City Hotel,239,2,3,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,96.25,0,0
+BK218760,2017-08-27,City Hotel,135,2,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,157.17,0,1
+BK218761,2017-08-27,City Hotel,177,2,4,2,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,175.95,0,1
+BK218762,2017-08-27,City Hotel,167,2,4,2,1.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,177.75,0,0
+BK218763,2017-08-27,City Hotel,45,2,5,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,183.86,0,2
+BK218764,2017-08-27,City Hotel,54,3,5,1,0.0,0,BB,Direct,Direct,0,0,0,G,No Deposit,Transient,0,266.75,0,1
+BK218765,2017-08-27,Resort Hotel,73,1,0,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,190.0,0,0
+BK218766,2017-08-27,Resort Hotel,220,1,0,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient-Party,0,128.7,0,0
+BK218767,2017-08-27,Resort Hotel,51,2,0,2,2.0,0,BB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,290.0,0,1
+BK218768,2017-08-27,Resort Hotel,51,2,0,2,2.0,0,BB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,290.0,0,1
+BK218769,2017-08-27,Resort Hotel,50,2,0,2,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,242.0,0,0
+BK218770,2017-08-27,Resort Hotel,301,2,1,2,1.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,190.88,0,1
+BK218771,2017-08-27,Resort Hotel,344,2,1,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,185.75,0,0
+BK218772,2017-08-27,Resort Hotel,140,2,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,229.0,0,1
+BK218773,2017-08-27,Resort Hotel,36,2,1,2,1.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,244.16,0,1
+BK218774,2017-08-27,Resort Hotel,61,2,2,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,222.0,0,2
+BK218775,2017-08-27,Resort Hotel,22,2,2,2,2.0,0,BB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,295.0,0,0
+BK218776,2017-08-27,Resort Hotel,47,2,3,1,2.0,0,HB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,289.8,0,1
+BK218777,2017-08-27,Resort Hotel,47,2,3,1,1.0,0,HB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,253.8,0,1
+BK218778,2017-08-27,Resort Hotel,46,2,2,1,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,230.0,0,0
+BK218779,2017-08-27,Resort Hotel,99,2,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,236.67,0,1
+BK218780,2017-08-27,Resort Hotel,20,2,5,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,E,No Deposit,Transient,0,182.0,0,1
+BK218781,2017-08-27,Resort Hotel,216,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,110.7,0,0
+BK218782,2017-08-27,Resort Hotel,20,2,5,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,E,No Deposit,Transient,0,182.0,0,1
+BK218783,2017-08-27,Resort Hotel,216,2,5,3,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,139.68,0,0
+BK218784,2017-08-27,Resort Hotel,327,2,5,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,167.18,0,1
+BK218785,2017-08-27,Resort Hotel,305,4,6,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,E,No Deposit,Transient,0,131.4,0,2
+BK218786,2017-08-27,Resort Hotel,173,4,9,2,1.0,0,HB,Offline TA/TO,TA/TO,1,0,1,D,No Deposit,Group,0,200.73,0,1
+BK218787,2017-08-27,Resort Hotel,33,2,4,2,1.0,0,BB,Direct,Direct,1,0,1,F,No Deposit,Transient,0,253.25,0,1
+BK218788,2017-08-27,Resort Hotel,0,1,0,2,2.0,0,BB,Direct,Direct,0,0,0,H,No Deposit,Transient,0,220.5,1,0
+BK218789,2017-08-27,Resort Hotel,220,1,0,1,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient-Party,0,128.7,0,0
+BK218790,2017-08-27,Resort Hotel,220,1,0,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient-Party,0,128.7,0,0
+BK218791,2017-08-27,Resort Hotel,220,1,0,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient-Party,0,128.7,0,0
+BK218792,2017-08-27,Resort Hotel,220,1,0,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient-Party,0,128.7,0,0
+BK218793,2017-08-27,Resort Hotel,0,1,0,2,0.0,0,BB,Direct,Direct,0,0,0,C,No Deposit,Transient,0,185.0,1,0
+BK218794,2017-08-27,Resort Hotel,220,1,0,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient-Party,0,128.7,0,0
+BK218795,2017-08-27,Resort Hotel,0,1,0,2,0.0,0,BB,Direct,Direct,0,0,0,C,No Deposit,Transient,0,185.0,0,0
+BK218796,2017-08-27,Resort Hotel,0,1,0,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,185.0,0,0
+BK218797,2017-08-27,Resort Hotel,3,1,0,1,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,75.0,0,1
+BK218798,2017-08-27,Resort Hotel,3,1,0,1,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,75.0,0,2
+BK218799,2017-08-27,Resort Hotel,3,1,0,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,80.0,0,2
+BK218800,2017-08-27,Resort Hotel,0,2,0,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,244.0,1,0
+BK218801,2017-08-27,Resort Hotel,163,2,1,2,2.0,0,BB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,246.0,1,1
+BK218802,2017-08-27,Resort Hotel,85,2,1,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,236.0,1,2
+BK218803,2017-08-27,Resort Hotel,28,2,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,204.0,1,2
+BK218804,2017-08-27,Resort Hotel,69,2,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,190.0,0,2
+BK218805,2017-08-27,Resort Hotel,6,2,1,2,2.0,0,HB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,344.67,0,2
+BK218806,2017-08-27,Resort Hotel,81,2,2,2,2.0,0,Undefined,Direct,Direct,0,0,0,C,No Deposit,Transient,0,351.0,1,2
+BK218807,2017-08-27,Resort Hotel,4,2,2,2,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,210.0,0,2
+BK218808,2017-08-27,Resort Hotel,123,2,2,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,118.5,0,0
+BK218809,2017-08-27,Resort Hotel,185,2,2,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,116.5,0,2
+BK218810,2017-08-27,Resort Hotel,229,2,2,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,104.85,0,0
+BK218811,2017-08-27,Resort Hotel,26,2,2,1,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,197.0,0,3
+BK218812,2017-08-27,Resort Hotel,56,2,2,2,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient-Party,0,242.0,0,3
+BK218813,2017-08-27,Resort Hotel,56,2,2,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,222.0,0,3
+BK218814,2017-08-27,Resort Hotel,56,2,2,2,0.0,0,HB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient-Party,0,262.0,0,3
+BK218815,2017-08-27,Resort Hotel,56,2,2,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,222.0,0,3
+BK218816,2017-08-27,Resort Hotel,59,2,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,168.0,0,0
+BK218817,2017-08-27,Resort Hotel,81,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Group,0,135.0,0,0
+BK218818,2017-08-27,Resort Hotel,38,2,5,1,2.0,0,BB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,284.29,0,1
+BK218819,2017-08-27,Resort Hotel,151,2,5,2,0.0,0,FB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,171.5,0,0
+BK218820,2017-08-27,Resort Hotel,178,2,5,3,1.0,0,FB,Online TA,TA/TO,0,0,0,H,No Deposit,Transient,0,383.0,1,3
+BK218821,2017-08-27,Resort Hotel,95,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,184.29,1,2
+BK218822,2017-08-27,Resort Hotel,202,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,118.75,0,1
+BK218823,2017-08-27,Resort Hotel,202,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,118.75,0,1
+BK218824,2017-08-27,Resort Hotel,171,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,E,No Deposit,Transient,0,131.4,1,0
+BK218825,2017-08-27,Resort Hotel,171,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,121.5,0,0
+BK218826,2017-08-27,Resort Hotel,111,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,E,No Deposit,Contract,0,148.0,0,0
+BK218827,2017-08-27,Resort Hotel,97,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Contract,0,118.5,0,1
+BK218828,2017-08-27,Resort Hotel,97,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Contract,0,118.5,0,1
+BK218829,2017-08-27,Resort Hotel,229,4,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,E,No Deposit,Transient,0,131.4,0,0
+BK218830,2017-08-27,Resort Hotel,97,4,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,E,No Deposit,Transient,0,156.0,0,0
+BK218831,2017-08-27,Resort Hotel,173,4,9,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient-Party,0,168.92,0,1
+BK218832,2017-08-28,City Hotel,7,1,0,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,160.0,0,2
+BK218833,2017-08-28,City Hotel,182,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,126.0,0,0
+BK218834,2017-08-28,City Hotel,279,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,107.1,0,0
+BK218835,2017-08-28,City Hotel,368,1,2,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,80.1,0,0
+BK218836,2017-08-28,City Hotel,305,1,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,107.1,0,2
+BK218837,2017-08-28,City Hotel,28,1,2,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,250.0,0,0
+BK218838,2017-08-28,City Hotel,278,1,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,107.1,0,0
+BK218839,2017-08-28,City Hotel,50,1,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,115.2,0,0
+BK218840,2017-08-28,City Hotel,168,1,2,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,175.5,0,0
+BK218841,2017-08-28,City Hotel,162,1,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,139.5,0,1
+BK218842,2017-08-28,City Hotel,43,1,2,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,140.0,0,2
+BK218843,2017-08-28,City Hotel,184,1,2,2,0.0,0,BB,Direct,Direct,0,0,0,E,No Deposit,Transient,0,191.67,0,3
+BK218844,2017-08-28,City Hotel,161,1,3,2,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,178.53,0,0
+BK218845,2017-08-28,City Hotel,206,1,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,126.0,0,1
+BK218846,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,109.25,0,0
+BK218847,2017-08-28,City Hotel,35,1,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,170.0,0,1
+BK218848,2017-08-28,City Hotel,213,1,3,1,0.0,0,BB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,85.0,0,0
+BK218849,2017-08-28,City Hotel,33,1,3,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,210.0,0,0
+BK218850,2017-08-28,City Hotel,219,1,3,2,1.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,135.0,0,2
+BK218851,2017-08-28,City Hotel,321,1,4,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,145.08,0,3
+BK218852,2017-08-28,City Hotel,112,1,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,155.0,0,1
+BK218853,2017-08-28,City Hotel,212,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,85.59,0,0
+BK218854,2017-08-28,City Hotel,260,3,6,2,1.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,135.0,0,1
+BK218855,2017-08-28,City Hotel,41,3,9,1,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,161.83,0,0
+BK218856,2017-08-28,City Hotel,70,4,10,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,200.29,0,1
+BK218857,2017-08-28,City Hotel,222,1,5,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,2
+BK218858,2017-08-28,City Hotel,4,1,0,1,0.0,0,BB,Complementary,Corporate,1,0,3,A,No Deposit,Transient,0,0.0,0,2
+BK218859,2017-08-28,City Hotel,81,1,2,1,0.0,0,BB,Online TA,TA/TO,1,0,2,A,No Deposit,Transient,0,125.0,0,0
+BK218860,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218861,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,2
+BK218862,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218863,2017-08-28,City Hotel,0,1,0,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,140.0,0,1
+BK218864,2017-08-28,City Hotel,311,1,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,89.1,0,0
+BK218865,2017-08-28,City Hotel,0,1,0,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,140.0,0,2
+BK218866,2017-08-28,City Hotel,21,1,0,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,149.0,0,1
+BK218867,2017-08-28,City Hotel,0,1,0,2,1.0,1,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,150.0,0,0
+BK218868,2017-08-28,City Hotel,40,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,139.4,0,1
+BK218869,2017-08-28,City Hotel,189,1,1,3,0.0,0,HB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,187.2,0,0
+BK218870,2017-08-28,City Hotel,39,1,1,1,0.0,0,BB,Corporate,Corporate,0,0,0,D,No Deposit,Transient,0,95.0,0,0
+BK218871,2017-08-28,City Hotel,240,1,1,2,1.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,135.0,0,3
+BK218872,2017-08-28,City Hotel,61,1,1,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,121.1,0,0
+BK218873,2017-08-28,City Hotel,146,1,1,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,195.0,0,1
+BK218874,2017-08-28,City Hotel,4,1,1,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,219.0,0,2
+BK218875,2017-08-28,City Hotel,183,1,2,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,0
+BK218876,2017-08-28,City Hotel,31,1,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,170.0,0,1
+BK218877,2017-08-28,City Hotel,82,1,2,1,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,125.0,0,0
+BK218878,2017-08-28,City Hotel,208,1,2,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,80.1,0,1
+BK218879,2017-08-28,City Hotel,3,1,2,1,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,140.0,0,2
+BK218880,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218881,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218882,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218883,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218884,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218885,2017-08-28,City Hotel,209,1,3,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,0
+BK218886,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218887,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218888,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,1
+BK218889,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218890,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218891,2017-08-28,City Hotel,97,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218892,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218893,2017-08-28,City Hotel,97,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218894,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218895,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,D,No Deposit,Transient-Party,0,104.0,0,1
+BK218896,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218897,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218898,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218899,2017-08-28,City Hotel,27,1,3,2,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,169.0,1,0
+BK218900,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218901,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,D,No Deposit,Transient-Party,0,104.0,0,1
+BK218902,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218903,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218904,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218905,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218906,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218907,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218908,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218909,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218910,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218911,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218912,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218913,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218914,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218915,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218916,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218917,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218918,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218919,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218920,2017-08-28,City Hotel,6,1,3,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,190.0,0,1
+BK218921,2017-08-28,City Hotel,83,1,3,1,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,147.68,0,0
+BK218922,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218923,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218924,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218925,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218926,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218927,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218928,2017-08-28,City Hotel,173,1,3,2,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,135.0,0,2
+BK218929,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218930,2017-08-28,City Hotel,211,1,3,3,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,161.5,0,1
+BK218931,2017-08-28,City Hotel,97,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218932,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218933,2017-08-28,City Hotel,201,1,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,126.0,0,0
+BK218934,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218935,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218936,2017-08-28,City Hotel,9,1,3,2,2.0,0,BB,Direct,Direct,0,0,0,E,No Deposit,Transient,0,210.0,0,0
+BK218937,2017-08-28,City Hotel,279,1,3,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,89.1,0,2
+BK218938,2017-08-28,City Hotel,190,1,3,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,99.0,0,2
+BK218939,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218940,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218941,2017-08-28,City Hotel,115,1,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,155.0,0,1
+BK218942,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218943,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218944,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218945,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218946,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,105.75,0,1
+BK218947,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218948,2017-08-28,City Hotel,22,1,3,2,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,160.0,0,0
+BK218949,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218950,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218951,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218952,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218953,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK218954,2017-08-28,City Hotel,213,1,3,1,0.0,0,HB,Groups,TA/TO,0,0,0,C,No Deposit,Transient-Party,0,104.0,0,1
+BK218955,2017-08-28,City Hotel,198,1,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,2
+BK218956,2017-08-28,City Hotel,130,1,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,188.0,0,0
+BK218957,2017-08-28,City Hotel,217,1,4,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,99.0,0,0
+BK218958,2017-08-28,City Hotel,45,1,5,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,194.13,0,1
+BK218959,2017-08-28,City Hotel,147,1,5,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,117.0,0,1
+BK218960,2017-08-28,City Hotel,231,1,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,134.58,0,0
+BK218961,2017-08-28,City Hotel,212,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,92.17,0,1
+BK218962,2017-08-28,City Hotel,212,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,92.17,0,2
+BK218963,2017-08-28,City Hotel,210,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,85.59,0,1
+BK218964,2017-08-28,City Hotel,212,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,85.59,0,0
+BK218965,2017-08-28,Resort Hotel,56,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,152.0,0,0
+BK218966,2017-08-28,Resort Hotel,98,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,190.0,0,1
+BK218967,2017-08-28,Resort Hotel,48,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,230.0,0,0
+BK218968,2017-08-28,Resort Hotel,56,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,152.0,0,0
+BK218969,2017-08-28,Resort Hotel,98,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,190.0,0,1
+BK218970,2017-08-28,Resort Hotel,98,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,190.0,0,1
+BK218971,2017-08-28,Resort Hotel,56,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,152.0,0,0
+BK218972,2017-08-28,Resort Hotel,53,1,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,190.0,0,2
+BK218973,2017-08-28,Resort Hotel,40,1,2,1,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,230.0,0,1
+BK218974,2017-08-28,Resort Hotel,172,1,2,3,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Contract,0,198.05,0,0
+BK218975,2017-08-28,Resort Hotel,63,1,2,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,236.0,0,2
+BK218976,2017-08-28,Resort Hotel,152,1,3,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,141.0,0,0
+BK218977,2017-08-28,Resort Hotel,61,1,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,190.0,0,0
+BK218978,2017-08-28,Resort Hotel,35,1,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,230.0,0,1
+BK218979,2017-08-28,Resort Hotel,14,1,3,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,218.25,0,1
+BK218980,2017-08-28,Resort Hotel,26,1,3,2,2.0,0,BB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,286.25,0,0
+BK218981,2017-08-28,Resort Hotel,73,1,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,206.0,0,2
+BK218982,2017-08-28,Resort Hotel,175,1,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,230.0,0,2
+BK218983,2017-08-28,Resort Hotel,73,1,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,206.0,0,2
+BK218984,2017-08-28,Resort Hotel,65,1,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,186.0,0,0
+BK218985,2017-08-28,Resort Hotel,27,1,4,2,2.0,0,HB,Direct,Direct,0,0,0,G,No Deposit,Transient,0,341.0,0,0
+BK218986,2017-08-28,Resort Hotel,222,1,4,2,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,206.0,0,1
+BK218987,2017-08-28,Resort Hotel,175,1,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,Refundable,Transient,0,230.0,0,2
+BK218988,2017-08-28,Resort Hotel,112,1,5,3,0.0,0,HB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,312.0,0,3
+BK218989,2017-08-28,Resort Hotel,80,1,5,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,215.33,0,1
+BK218990,2017-08-28,Resort Hotel,13,1,5,2,2.0,0,BB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,232.5,0,1
+BK218991,2017-08-28,Resort Hotel,112,1,5,3,0.0,0,HB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,250.0,0,2
+BK218992,2017-08-28,Resort Hotel,54,1,5,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,215.33,0,1
+BK218993,2017-08-28,Resort Hotel,120,1,5,3,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,297.0,0,2
+BK218994,2017-08-28,Resort Hotel,80,1,5,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,215.33,0,1
+BK218995,2017-08-28,Resort Hotel,120,1,5,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,265.0,0,0
+BK218996,2017-08-28,Resort Hotel,59,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,201.43,0,2
+BK218997,2017-08-28,Resort Hotel,77,2,5,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,163.0,0,0
+BK218998,2017-08-28,Resort Hotel,59,3,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,180.0,0,0
+BK218999,2017-08-28,Resort Hotel,237,3,7,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,180.38,0,0
+BK219000,2017-08-28,Resort Hotel,237,3,7,3,1.0,0,HB,Online TA,TA/TO,0,0,0,H,No Deposit,Transient,0,293.6,0,0
+BK219001,2017-08-28,Resort Hotel,18,3,8,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,E,No Deposit,Group,0,140.0,0,0
+BK219002,2017-08-28,Resort Hotel,2,1,0,1,0.0,0,BB,Complementary,Direct,1,0,1,A,No Deposit,Transient,0,0.0,0,0
+BK219003,2017-08-28,Resort Hotel,0,1,0,2,0.0,0,BB,Direct,Direct,1,0,0,E,No Deposit,Transient,0,194.0,1,0
+BK219004,2017-08-28,Resort Hotel,17,1,3,3,0.0,0,FB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,248.29,0,0
+BK219005,2017-08-28,Resort Hotel,40,1,1,2,1.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,204.16,0,3
+BK219006,2017-08-28,Resort Hotel,125,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,204.0,0,1
+BK219007,2017-08-28,Resort Hotel,125,1,1,2,2.0,0,BB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,228.89,0,1
+BK219008,2017-08-28,Resort Hotel,64,1,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,185.0,0,1
+BK219009,2017-08-28,Resort Hotel,3,1,2,2,0.0,0,HB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,235.8,0,2
+BK219010,2017-08-28,Resort Hotel,28,1,2,2,0.0,0,HB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient-Party,0,276.0,1,2
+BK219011,2017-08-28,Resort Hotel,28,1,2,2,0.0,0,HB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient-Party,0,262.0,0,2
+BK219012,2017-08-28,Resort Hotel,56,1,2,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,191.6,1,0
+BK219013,2017-08-28,Resort Hotel,31,1,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,196.75,1,2
+BK219014,2017-08-28,Resort Hotel,1,1,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,212.5,0,3
+BK219015,2017-08-28,Resort Hotel,74,1,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,199.4,1,2
+BK219016,2017-08-28,Resort Hotel,5,1,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,218.0,0,2
+BK219017,2017-08-28,Resort Hotel,115,1,4,2,0.0,0,FB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,207.0,1,1
+BK219018,2017-08-28,Resort Hotel,115,1,4,2,0.0,0,FB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,191.0,0,1
+BK219019,2017-08-28,Resort Hotel,0,1,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,192.8,0,1
+BK219020,2017-08-28,Resort Hotel,128,1,4,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,237.0,0,2
+BK219021,2017-08-28,Resort Hotel,37,1,4,2,2.0,0,HB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,298.0,1,3
+BK219022,2017-08-28,Resort Hotel,50,1,4,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,174.4,0,1
+BK219023,2017-08-28,Resort Hotel,140,1,4,2,2.0,0,BB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,225.2,1,0
+BK219024,2017-08-28,Resort Hotel,63,1,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Contract,0,118.5,0,1
+BK219025,2017-08-28,Resort Hotel,51,1,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,161.33,1,1
+BK219026,2017-08-28,Resort Hotel,95,1,5,2,1.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,176.25,0,1
+BK219027,2017-08-28,Resort Hotel,193,1,5,2,0.0,0,BB,Direct,Direct,0,0,0,E,No Deposit,Transient,0,205.7,1,2
+BK219028,2017-08-28,Resort Hotel,13,1,5,2,1.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,250.2,1,3
+BK219029,2017-08-28,Resort Hotel,18,1,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Group,0,135.0,0,2
+BK219030,2017-08-28,Resort Hotel,9,1,5,2,2.0,0,BB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,232.5,0,2
+BK219031,2017-08-28,Resort Hotel,61,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,137.0,0,2
+BK219032,2017-08-28,Resort Hotel,34,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Contract,0,137.0,0,0
+BK219033,2017-08-28,Resort Hotel,42,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Contract,0,118.5,0,0
+BK219034,2017-08-28,Resort Hotel,153,2,5,2,1.0,0,HB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,230.43,0,3
+BK219035,2017-08-28,Resort Hotel,153,2,5,2,1.0,0,HB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,230.43,0,3
+BK219036,2017-08-28,Resort Hotel,153,2,5,2,0.0,0,HB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,204.93,0,3
+BK219037,2017-08-28,Resort Hotel,73,2,5,2,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,221.41,0,0
+BK219038,2017-08-28,Resort Hotel,27,2,5,2,0.0,0,BB,Direct,Direct,0,0,0,F,No Deposit,Transient,0,234.29,0,1
+BK219039,2017-08-28,Resort Hotel,292,3,5,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,E,No Deposit,Transient-Party,0,166.6,0,1
+BK219040,2017-08-28,Resort Hotel,21,3,5,1,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,137.0,0,2
+BK219041,2017-08-28,Resort Hotel,191,3,6,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,99.0,0,0
+BK219042,2017-08-28,Resort Hotel,172,3,6,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,195.11,0,2
+BK219043,2017-08-29,City Hotel,521,0,1,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,Non Refund,Transient,0,90.0,0,0
+BK219044,2017-08-29,City Hotel,521,0,1,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,Non Refund,Transient,0,90.0,0,0
+BK219045,2017-08-29,City Hotel,521,0,1,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,Non Refund,Transient,0,90.0,0,0
+BK219046,2017-08-29,City Hotel,521,0,1,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,Non Refund,Transient,0,90.0,0,0
+BK219047,2017-08-29,City Hotel,11,0,1,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,210.0,0,0
+BK219048,2017-08-29,City Hotel,521,0,1,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,Non Refund,Transient,0,90.0,0,0
+BK219049,2017-08-29,City Hotel,521,0,1,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,Non Refund,Transient,0,90.0,0,0
+BK219050,2017-08-29,City Hotel,521,0,1,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,Non Refund,Transient,0,90.0,0,0
+BK219051,2017-08-29,City Hotel,521,0,1,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,Non Refund,Transient,0,90.0,0,0
+BK219052,2017-08-29,City Hotel,521,0,1,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,Non Refund,Transient,0,90.0,0,0
+BK219053,2017-08-29,City Hotel,521,0,1,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,Non Refund,Transient,0,90.0,0,0
+BK219054,2017-08-29,City Hotel,228,0,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,1
+BK219055,2017-08-29,City Hotel,42,0,2,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,210.0,0,0
+BK219056,2017-08-29,City Hotel,184,0,2,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,1
+BK219057,2017-08-29,City Hotel,26,0,3,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,250.0,0,1
+BK219058,2017-08-29,City Hotel,43,0,4,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,137.25,0,1
+BK219059,2017-08-29,City Hotel,210,0,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,0
+BK219060,2017-08-29,City Hotel,171,0,4,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,168.08,0,0
+BK219061,2017-08-29,City Hotel,209,0,3,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,220.0,0,0
+BK219062,2017-08-29,City Hotel,127,0,3,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,195.0,0,1
+BK219063,2017-08-29,City Hotel,350,0,4,1,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,125.25,0,1
+BK219064,2017-08-29,City Hotel,234,0,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,1
+BK219065,2017-08-29,City Hotel,223,0,4,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,2
+BK219066,2017-08-29,City Hotel,146,0,5,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,131.0,0,1
+BK219067,2017-08-29,City Hotel,158,0,5,1,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,88.96,0,0
+BK219068,2017-08-29,City Hotel,135,1,5,3,0.0,0,BB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,272.5,0,1
+BK219069,2017-08-29,City Hotel,123,1,5,1,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,155.0,0,1
+BK219070,2017-08-29,City Hotel,48,1,5,1,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,139.0,0,0
+BK219071,2017-08-29,City Hotel,320,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,112.76,0,3
+BK219072,2017-08-29,City Hotel,33,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,162.29,0,1
+BK219073,2017-08-29,City Hotel,50,0,2,1,0.0,0,BB,Corporate,Corporate,1,1,28,A,No Deposit,Transient,0,89.0,1,4
+BK219074,2017-08-29,City Hotel,1,0,2,1,0.0,0,BB,Corporate,Corporate,1,0,6,A,No Deposit,Transient,0,67.0,0,3
+BK219075,2017-08-29,City Hotel,6,0,3,1,0.0,0,BB,Corporate,Corporate,1,1,7,A,No Deposit,Transient,0,65.0,0,3
+BK219076,2017-08-29,City Hotel,0,0,1,1,0.0,0,BB,Direct,Direct,1,0,5,A,No Deposit,Transient,0,80.0,0,0
+BK219077,2017-08-29,City Hotel,13,0,1,1,0.0,0,BB,Corporate,Corporate,1,1,7,A,No Deposit,Transient,0,65.0,0,0
+BK219078,2017-08-29,City Hotel,0,0,1,2,3.0,0,BB,Offline TA/TO,TA/TO,1,0,0,G,No Deposit,Group,0,270.0,0,1
+BK219079,2017-08-29,City Hotel,43,0,1,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,210.0,0,1
+BK219080,2017-08-29,City Hotel,1,0,1,1,0.0,0,BB,Corporate,Corporate,0,0,0,D,No Deposit,Transient,0,95.0,0,0
+BK219081,2017-08-29,City Hotel,40,0,1,1,0.0,0,BB,Corporate,Corporate,0,0,0,D,No Deposit,Transient,0,95.0,0,0
+BK219082,2017-08-29,City Hotel,40,0,1,1,0.0,0,BB,Corporate,Corporate,0,0,0,D,No Deposit,Transient,0,95.0,0,0
+BK219083,2017-08-29,City Hotel,40,0,1,1,0.0,0,BB,Corporate,Corporate,0,0,0,D,No Deposit,Transient,0,95.0,0,0
+BK219084,2017-08-29,City Hotel,0,0,1,1,0.0,0,BB,Complementary,Corporate,0,0,0,A,No Deposit,Transient,0,0.0,0,2
+BK219085,2017-08-29,City Hotel,19,0,1,1,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,140.0,0,2
+BK219086,2017-08-29,City Hotel,19,0,1,1,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,140.0,0,2
+BK219087,2017-08-29,City Hotel,19,0,1,1,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,140.0,0,2
+BK219088,2017-08-29,City Hotel,0,0,1,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,140.0,0,0
+BK219089,2017-08-29,City Hotel,323,0,1,2,1.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,125.1,0,2
+BK219090,2017-08-29,City Hotel,5,0,1,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,259.0,0,0
+BK219091,2017-08-29,City Hotel,39,0,1,1,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,170.0,0,1
+BK219092,2017-08-29,City Hotel,43,0,1,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,140.0,0,1
+BK219093,2017-08-29,City Hotel,0,0,1,2,2.0,0,BB,Direct,Direct,0,0,0,G,No Deposit,Transient,0,270.0,0,0
+BK219094,2017-08-29,City Hotel,184,0,2,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,2
+BK219095,2017-08-29,City Hotel,205,0,2,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,5
+BK219096,2017-08-29,City Hotel,205,0,2,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,2
+BK219097,2017-08-29,City Hotel,95,0,2,2,0.0,0,SC,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,95.76,0,0
+BK219098,2017-08-29,City Hotel,19,0,2,1,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,140.0,0,0
+BK219099,2017-08-29,City Hotel,5,0,2,1,0.0,0,HB,Groups,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,104.0,0,0
+BK219100,2017-08-29,City Hotel,189,0,3,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,80.1,0,1
+BK219101,2017-08-29,City Hotel,189,0,3,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,80.1,0,1
+BK219102,2017-08-29,City Hotel,22,0,3,1,0.0,0,BB,Corporate,Corporate,0,0,0,A,No Deposit,Transient,0,75.0,0,4
+BK219103,2017-08-29,City Hotel,178,0,3,1,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,121.5,0,1
+BK219104,2017-08-29,City Hotel,0,0,3,2,1.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,135.0,0,2
+BK219105,2017-08-29,City Hotel,198,0,4,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,160.2,0,0
+BK219106,2017-08-29,City Hotel,141,0,4,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,138.75,0,1
+BK219107,2017-08-29,City Hotel,199,0,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,126.0,0,0
+BK219108,2017-08-29,City Hotel,303,0,4,1,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,102.38,0,2
+BK219109,2017-08-29,City Hotel,26,0,4,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,207.25,0,0
+BK219110,2017-08-29,City Hotel,43,0,4,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,137.25,0,1
+BK219111,2017-08-29,City Hotel,197,0,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,0
+BK219112,2017-08-29,City Hotel,116,0,5,1,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,92.0,0,1
+BK219113,2017-08-29,City Hotel,138,0,5,1,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,117.9,0,0
+BK219114,2017-08-29,City Hotel,199,0,5,1,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,2
+BK219115,2017-08-29,City Hotel,199,0,5,1,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,2
+BK219116,2017-08-29,City Hotel,145,0,5,1,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,84.51,0,1
+BK219117,2017-08-29,City Hotel,160,0,5,2,1.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,153.9,0,0
+BK219118,2017-08-29,City Hotel,140,0,5,2,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,156.0,0,1
+BK219119,2017-08-29,City Hotel,136,0,5,1,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,131.0,0,2
+BK219120,2017-08-29,City Hotel,177,0,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,135.9,0,2
+BK219121,2017-08-29,City Hotel,103,0,5,1,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,153.6,0,0
+BK219122,2017-08-29,City Hotel,137,0,5,1,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,96.8,0,1
+BK219123,2017-08-29,City Hotel,110,0,5,3,0.0,0,HB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,229.0,0,1
+BK219124,2017-08-29,City Hotel,110,0,5,2,0.0,0,HB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,171.0,0,2
+BK219125,2017-08-29,City Hotel,181,0,5,1,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,126.9,0,2
+BK219126,2017-08-29,City Hotel,111,1,5,1,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,135.0,0,2
+BK219127,2017-08-29,City Hotel,111,1,5,2,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,135.0,0,1
+BK219128,2017-08-29,City Hotel,195,1,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,1
+BK219129,2017-08-29,City Hotel,198,1,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,119.17,0,2
+BK219130,2017-08-29,City Hotel,201,1,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,2
+BK219131,2017-08-29,City Hotel,165,1,5,3,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,209.25,0,3
+BK219132,2017-08-29,City Hotel,205,2,7,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,151.2,0,2
+BK219133,2017-08-29,Resort Hotel,205,0,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,210.0,0,3
+BK219134,2017-08-29,Resort Hotel,29,0,3,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,194.0,0,0
+BK219135,2017-08-29,Resort Hotel,32,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,225.0,0,1
+BK219136,2017-08-29,Resort Hotel,35,0,3,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,185.0,0,1
+BK219137,2017-08-29,Resort Hotel,29,0,3,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,180.0,0,0
+BK219138,2017-08-29,Resort Hotel,75,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,210.0,0,1
+BK219139,2017-08-29,Resort Hotel,114,0,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,190.0,0,1
+BK219140,2017-08-29,Resort Hotel,8,0,4,3,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,213.5,0,0
+BK219141,2017-08-29,Resort Hotel,72,1,5,2,2.0,0,HB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,328.0,0,0
+BK219142,2017-08-29,Resort Hotel,246,2,5,2,1.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,171.25,0,0
+BK219143,2017-08-29,Resort Hotel,19,2,5,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Group,0,163.0,0,0
+BK219144,2017-08-29,Resort Hotel,42,2,5,2,2.0,0,BB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,228.57,0,1
+BK219145,2017-08-29,Resort Hotel,160,2,6,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,212.5,0,0
+BK219146,2017-08-29,Resort Hotel,148,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Contract,0,135.0,0,0
+BK219147,2017-08-29,Resort Hotel,0,0,3,2,0.0,0,BB,Direct,Direct,0,0,0,E,No Deposit,Transient,0,184.67,0,0
+BK219148,2017-08-29,Resort Hotel,4,0,4,2,0.0,0,BB,Online TA,Direct,1,0,2,A,No Deposit,Transient,0,196.5,1,2
+BK219149,2017-08-29,Resort Hotel,1,0,1,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,204.0,0,2
+BK219150,2017-08-29,Resort Hotel,82,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,230.0,0,3
+BK219151,2017-08-29,Resort Hotel,30,0,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,196.5,1,2
+BK219152,2017-08-29,Resort Hotel,217,0,4,3,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,141.55,0,1
+BK219153,2017-08-29,Resort Hotel,217,0,4,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,106.35,0,1
+BK219154,2017-08-29,Resort Hotel,6,0,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,149.45,0,0
+BK219155,2017-08-29,Resort Hotel,126,0,5,2,0.0,0,BB,Direct,Direct,0,0,0,E,No Deposit,Transient,0,240.6,1,1
+BK219156,2017-08-29,Resort Hotel,34,2,5,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,165.0,0,0
+BK219157,2017-08-29,Resort Hotel,19,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,135.0,0,2
+BK219158,2017-08-29,Resort Hotel,6,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,130.23,0,1
+BK219159,2017-08-29,Resort Hotel,117,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,152.43,1,0
+BK219160,2017-08-29,Resort Hotel,293,2,5,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,E,No Deposit,Transient-Party,0,166.6,0,1
+BK219161,2017-08-29,Resort Hotel,48,2,5,2,1.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,178.58,0,1
+BK219162,2017-08-29,Resort Hotel,0,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,186.43,1,2
+BK219163,2017-08-29,Resort Hotel,30,2,5,2,1.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,147.01,0,0
+BK219164,2017-08-29,Resort Hotel,41,2,6,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,177.5,0,2
+BK219165,2017-08-29,Resort Hotel,214,2,8,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Contract,0,85.8,0,0
+BK219166,2017-08-29,Resort Hotel,239,2,9,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,184.73,0,2
+BK219167,2017-08-29,Resort Hotel,204,4,10,2,0.0,0,BB,Direct,Direct,0,0,0,E,No Deposit,Transient,0,153.57,0,3
+BK219168,2017-08-30,City Hotel,23,0,2,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,250.0,0,0
+BK219169,2017-08-30,City Hotel,30,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,166.33,0,1
+BK219170,2017-08-30,City Hotel,220,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,1
+BK219171,2017-08-30,City Hotel,47,0,2,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,210.0,0,3
+BK219172,2017-08-30,City Hotel,207,0,2,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,0
+BK219173,2017-08-30,City Hotel,13,0,3,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,246.33,0,0
+BK219174,2017-08-30,City Hotel,73,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,162.67,0,1
+BK219175,2017-08-30,City Hotel,190,0,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,0
+BK219176,2017-08-30,City Hotel,207,0,4,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,0
+BK219177,2017-08-30,City Hotel,176,0,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,137.25,0,0
+BK219178,2017-08-30,City Hotel,48,2,4,2,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,195.33,0,1
+BK219179,2017-08-30,City Hotel,215,2,5,2,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,162.0,0,0
+BK219180,2017-08-30,City Hotel,215,2,5,2,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,162.0,0,0
+BK219181,2017-08-30,City Hotel,8,0,1,1,0.0,0,BB,Corporate,Corporate,1,0,3,A,No Deposit,Transient,0,80.0,0,2
+BK219182,2017-08-30,City Hotel,34,0,3,1,0.0,0,BB,Corporate,Corporate,1,1,5,A,No Deposit,Transient,0,85.0,0,0
+BK219183,2017-08-30,City Hotel,7,0,2,1,0.0,0,BB,Corporate,Corporate,1,0,1,A,No Deposit,Transient,0,65.0,0,2
+BK219184,2017-08-30,City Hotel,22,0,3,2,2.0,0,HB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,61.8,0,0
+BK219185,2017-08-30,City Hotel,0,0,1,1,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,140.0,0,0
+BK219186,2017-08-30,City Hotel,29,0,2,1,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,95.0,0,0
+BK219187,2017-08-30,City Hotel,29,0,2,1,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,95.0,0,0
+BK219188,2017-08-30,City Hotel,167,0,2,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,112.5,0,2
+BK219189,2017-08-30,City Hotel,167,0,2,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,112.5,0,2
+BK219190,2017-08-30,City Hotel,28,0,2,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,210.0,0,0
+BK219191,2017-08-30,City Hotel,163,0,2,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,89.1,0,0
+BK219192,2017-08-30,City Hotel,30,0,3,3,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,195.47,0,3
+BK219193,2017-08-30,City Hotel,115,0,3,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,100.0,0,2
+BK219194,2017-08-30,City Hotel,44,0,3,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,206.33,0,1
+BK219195,2017-08-30,City Hotel,25,0,3,3,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,236.33,0,3
+BK219196,2017-08-30,City Hotel,243,0,3,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,189.0,0,3
+BK219197,2017-08-30,City Hotel,243,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,1
+BK219198,2017-08-30,City Hotel,169,0,3,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,83.1,0,0
+BK219199,2017-08-30,City Hotel,4,0,3,1,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,140.7,0,0
+BK219200,2017-08-30,City Hotel,66,0,3,1,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,141.9,0,0
+BK219201,2017-08-30,City Hotel,188,0,4,3,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,129.6,0,0
+BK219202,2017-08-30,City Hotel,181,0,4,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,119.25,0,2
+BK219203,2017-08-30,City Hotel,325,0,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,129.18,0,4
+BK219204,2017-08-30,City Hotel,107,0,4,2,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,146.4,0,0
+BK219205,2017-08-30,City Hotel,149,0,4,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,84.6,0,0
+BK219206,2017-08-30,City Hotel,286,0,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,112.05,0,3
+BK219207,2017-08-30,City Hotel,135,1,4,2,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,143.1,0,1
+BK219208,2017-08-30,City Hotel,261,1,4,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,99.0,0,0
+BK219209,2017-08-30,City Hotel,201,1,4,1,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,108.0,0,2
+BK219210,2017-08-30,City Hotel,200,1,4,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,85.5,0,1
+BK219211,2017-08-30,City Hotel,185,1,4,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,1
+BK219212,2017-08-30,City Hotel,135,2,4,3,0.0,0,BB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,209.0,0,0
+BK219213,2017-08-30,City Hotel,21,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,96.14,0,2
+BK219214,2017-08-30,City Hotel,23,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,96.14,0,0
+BK219215,2017-08-30,Resort Hotel,73,0,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,190.0,0,1
+BK219216,2017-08-30,Resort Hotel,98,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,210.0,0,1
+BK219217,2017-08-30,Resort Hotel,54,0,3,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Group,0,141.0,0,1
+BK219218,2017-08-30,Resort Hotel,50,0,3,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Group,0,141.0,0,0
+BK219219,2017-08-30,Resort Hotel,98,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,210.0,0,1
+BK219220,2017-08-30,Resort Hotel,74,0,3,2,2.0,0,BB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,233.33,0,1
+BK219221,2017-08-30,Resort Hotel,51,0,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,180.0,0,1
+BK219222,2017-08-30,Resort Hotel,36,0,4,2,2.0,0,BB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,230.0,0,1
+BK219223,2017-08-30,Resort Hotel,60,1,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,178.0,0,0
+BK219224,2017-08-30,Resort Hotel,92,1,4,2,2.0,0,HB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,284.0,0,1
+BK219225,2017-08-30,Resort Hotel,207,2,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,152.33,0,1
+BK219226,2017-08-30,Resort Hotel,62,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,175.71,0,0
+BK219227,2017-08-30,Resort Hotel,262,2,8,3,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,189.42,0,0
+BK219228,2017-08-30,Resort Hotel,357,0,4,2,0.0,0,BB,Online TA,TA/TO,1,1,1,A,No Deposit,Transient,0,142.22,0,2
+BK219229,2017-08-30,Resort Hotel,228,0,3,2,0.0,0,HB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,28.0,0,1
+BK219230,2017-08-30,Resort Hotel,0,0,0,2,0.0,0,BB,Online TA,TA/TO,1,0,0,A,No Deposit,Transient,0,0.0,0,0
+BK219231,2017-08-30,Resort Hotel,0,0,1,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,175.0,0,1
+BK219232,2017-08-30,Resort Hotel,8,0,1,1,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,166.5,0,0
+BK219233,2017-08-30,Resort Hotel,0,0,1,2,2.0,0,BB,Direct,Direct,0,0,0,C,No Deposit,Transient,0,210.0,0,0
+BK219234,2017-08-30,Resort Hotel,5,0,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,171.0,0,1
+BK219235,2017-08-30,Resort Hotel,0,0,2,1,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,104.55,0,0
+BK219236,2017-08-30,Resort Hotel,3,0,2,1,0.0,0,BB,Direct,Direct,0,0,0,E,No Deposit,Transient,0,217.0,0,1
+BK219237,2017-08-30,Resort Hotel,8,0,2,2,0.0,0,Undefined,Direct,Direct,0,0,0,D,No Deposit,Transient,0,266.06,1,0
+BK219238,2017-08-30,Resort Hotel,19,0,2,1,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,153.0,0,1
+BK219239,2017-08-30,Resort Hotel,19,0,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,139.0,0,1
+BK219240,2017-08-30,Resort Hotel,21,0,2,2,1.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,186.0,0,2
+BK219241,2017-08-30,Resort Hotel,43,0,2,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,177.75,0,1
+BK219242,2017-08-30,Resort Hotel,75,0,3,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,160.33,1,0
+BK219243,2017-08-30,Resort Hotel,15,0,4,3,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,257.75,1,3
+BK219244,2017-08-30,Resort Hotel,15,0,4,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,210.75,0,3
+BK219245,2017-08-30,Resort Hotel,43,0,4,2,0.0,1,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,169.6,0,0
+BK219246,2017-08-30,Resort Hotel,7,1,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,192.0,1,1
+BK219247,2017-08-30,Resort Hotel,87,2,4,2,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,0.0,0,0
+BK219248,2017-08-30,Resort Hotel,58,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,140.57,0,0
+BK219249,2017-08-30,Resort Hotel,20,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Group,0,92.0,0,0
+BK219250,2017-08-30,Resort Hotel,50,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,123.88,0,1
+BK219251,2017-08-30,Resort Hotel,25,2,5,2,2.0,0,BB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,222.86,1,1
+BK219252,2017-08-30,Resort Hotel,161,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,213.43,0,2
+BK219253,2017-08-30,Resort Hotel,138,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,99.0,0,0
+BK219254,2017-08-30,Resort Hotel,135,2,6,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Group,0,122.0,0,2
+BK219255,2017-08-30,Resort Hotel,169,2,9,2,0.0,0,BB,Direct,Direct,0,0,0,E,No Deposit,Transient-Party,0,204.27,0,1
+BK219256,2017-08-30,Resort Hotel,169,2,9,2,0.0,0,BB,Direct,Direct,0,0,0,E,No Deposit,Transient-Party,0,202.27,0,1
+BK219257,2017-08-31,City Hotel,65,0,1,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,140.0,0,0
+BK219258,2017-08-31,City Hotel,184,0,1,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,112.5,0,0
+BK219259,2017-08-31,City Hotel,134,0,2,2,1.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,162.5,0,1
+BK219260,2017-08-31,City Hotel,68,0,2,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,129.0,0,1
+BK219261,2017-08-31,City Hotel,134,0,2,2,1.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,242.5,0,1
+BK219262,2017-08-31,City Hotel,155,0,3,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,135.0,0,1
+BK219263,2017-08-31,City Hotel,222,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,126.0,0,3
+BK219264,2017-08-31,City Hotel,155,0,3,1,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,135.0,0,1
+BK219265,2017-08-31,City Hotel,177,0,3,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,95.1,0,1
+BK219266,2017-08-31,City Hotel,50,0,3,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,125.33,0,1
+BK219267,2017-08-31,City Hotel,222,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,3
+BK219268,2017-08-31,City Hotel,177,0,3,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,95.1,0,1
+BK219269,2017-08-31,City Hotel,131,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,165.0,0,0
+BK219270,2017-08-31,City Hotel,155,0,3,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,135.0,0,1
+BK219271,2017-08-31,City Hotel,155,0,3,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,135.0,0,1
+BK219272,2017-08-31,City Hotel,221,0,3,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,162.0,0,1
+BK219273,2017-08-31,City Hotel,155,0,3,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,135.0,0,1
+BK219274,2017-08-31,City Hotel,222,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,3
+BK219275,2017-08-31,City Hotel,75,0,3,3,0.0,0,HB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,193.33,0,0
+BK219276,2017-08-31,City Hotel,23,0,3,2,2.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,242.67,0,0
+BK219277,2017-08-31,City Hotel,14,1,3,3,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,231.75,0,0
+BK219278,2017-08-31,City Hotel,112,1,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,145.0,0,2
+BK219279,2017-08-31,City Hotel,241,1,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,117.0,0,0
+BK219280,2017-08-31,City Hotel,117,2,3,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,125.0,0,1
+BK219281,2017-08-31,City Hotel,261,2,3,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,166.5,0,2
+BK219282,2017-08-31,City Hotel,245,2,3,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,79.2,0,0
+BK219283,2017-08-31,City Hotel,261,2,3,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,1
+BK219284,2017-08-31,City Hotel,119,2,4,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,185.0,0,1
+BK219285,2017-08-31,City Hotel,156,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,82.94,0,1
+BK219286,2017-08-31,City Hotel,218,2,5,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,162.0,0,0
+BK219287,2017-08-31,City Hotel,210,2,5,3,0.0,0,HB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,189.0,0,0
+BK219288,2017-08-31,City Hotel,14,0,1,1,0.0,0,BB,Corporate,Corporate,1,0,3,A,No Deposit,Transient,0,67.0,1,2
+BK219289,2017-08-31,City Hotel,3,0,1,1,0.0,0,BB,Corporate,Corporate,1,0,21,A,No Deposit,Transient,0,67.0,0,3
+BK219290,2017-08-31,City Hotel,3,0,1,2,1.0,0,BB,Corporate,Corporate,1,0,1,A,No Deposit,Transient,0,95.0,0,4
+BK219291,2017-08-31,City Hotel,186,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,12.0,0,2
+BK219292,2017-08-31,City Hotel,2,0,1,1,0.0,0,SC,Direct,Direct,0,0,0,A,No Deposit,Transient,0,140.0,0,2
+BK219293,2017-08-31,City Hotel,216,0,1,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,89.1,1,0
+BK219294,2017-08-31,City Hotel,3,0,1,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,140.0,0,1
+BK219295,2017-08-31,City Hotel,158,0,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,126.0,1,0
+BK219296,2017-08-31,City Hotel,332,0,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,170.8,0,2
+BK219297,2017-08-31,City Hotel,198,0,2,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,0
+BK219298,2017-08-31,City Hotel,4,0,3,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,132.67,0,1
+BK219299,2017-08-31,City Hotel,211,0,3,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,162.0,0,1
+BK219300,2017-08-31,City Hotel,230,0,3,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,E,No Deposit,Transient,0,109.5,0,0
+BK219301,2017-08-31,City Hotel,230,0,3,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,E,No Deposit,Transient,0,109.5,0,0
+BK219302,2017-08-31,City Hotel,1,0,3,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,E,No Deposit,Transient,0,109.5,0,1
+BK219303,2017-08-31,City Hotel,142,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,86.1,0,0
+BK219304,2017-08-31,City Hotel,8,0,3,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,119.4,0,0
+BK219305,2017-08-31,City Hotel,186,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,126.0,0,2
+BK219306,2017-08-31,City Hotel,186,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,126.0,0,2
+BK219307,2017-08-31,City Hotel,104,0,3,1,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,129.33,0,1
+BK219308,2017-08-31,City Hotel,30,0,3,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,151.67,1,0
+BK219309,2017-08-31,City Hotel,104,0,3,1,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,129.33,0,0
+BK219310,2017-08-31,City Hotel,27,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,152.67,0,1
+BK219311,2017-08-31,City Hotel,63,0,3,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient-Party,0,195.33,0,2
+BK219312,2017-08-31,City Hotel,63,0,3,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient-Party,0,195.33,0,2
+BK219313,2017-08-31,City Hotel,31,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,152.67,0,1
+BK219314,2017-08-31,City Hotel,194,0,3,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,99.0,0,0
+BK219315,2017-08-31,City Hotel,63,0,3,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient-Party,0,195.33,0,2
+BK219316,2017-08-31,City Hotel,63,0,3,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient-Party,0,195.33,0,2
+BK219317,2017-08-31,City Hotel,186,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,126.0,0,2
+BK219318,2017-08-31,City Hotel,72,0,3,2,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,134.82,0,1
+BK219319,2017-08-31,City Hotel,63,0,3,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient-Party,0,195.33,0,2
+BK219320,2017-08-31,City Hotel,63,0,3,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient-Party,0,195.33,0,2
+BK219321,2017-08-31,City Hotel,63,0,3,3,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient-Party,0,195.33,0,2
+BK219322,2017-08-31,City Hotel,47,1,3,1,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,91.02,0,0
+BK219323,2017-08-31,City Hotel,63,1,3,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,133.5,0,1
+BK219324,2017-08-31,City Hotel,100,1,3,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,95.85,0,0
+BK219325,2017-08-31,City Hotel,175,1,3,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,86.85,0,2
+BK219326,2017-08-31,City Hotel,175,1,3,1,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,82.35,0,1
+BK219327,2017-08-31,City Hotel,175,1,3,1,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,82.35,0,1
+BK219328,2017-08-31,City Hotel,247,1,3,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,86.85,0,0
+BK219329,2017-08-31,City Hotel,109,1,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,155.0,0,1
+BK219330,2017-08-31,City Hotel,44,1,3,2,0.0,0,SC,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,140.75,0,1
+BK219331,2017-08-31,City Hotel,188,2,3,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,99.0,0,0
+BK219332,2017-08-31,City Hotel,164,2,4,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,87.6,0,0
+BK219333,2017-08-31,City Hotel,102,2,5,3,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,225.43,0,2
+BK219334,2017-08-31,City Hotel,34,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,157.71,0,4
+BK219335,2017-08-31,City Hotel,109,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,104.4,0,0
+BK219336,2017-08-31,Resort Hotel,24,0,1,1,0.0,0,HB,Direct,Direct,0,0,0,A,No Deposit,Transient-Party,0,177.5,0,1
+BK219337,2017-08-31,Resort Hotel,95,0,2,2,1.0,0,BB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,290.0,0,2
+BK219338,2017-08-31,Resort Hotel,45,0,1,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,185.0,0,0
+BK219339,2017-08-31,Resort Hotel,24,0,1,2,0.0,0,HB,Direct,Direct,0,0,0,A,No Deposit,Transient-Party,0,202.0,0,4
+BK219340,2017-08-31,Resort Hotel,17,0,3,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,207.0,0,2
+BK219341,2017-08-31,Resort Hotel,17,0,3,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,207.0,0,2
+BK219342,2017-08-31,Resort Hotel,70,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,196.67,0,1
+BK219343,2017-08-31,Resort Hotel,112,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,230.0,0,0
+BK219344,2017-08-31,Resort Hotel,13,1,3,2,2.0,0,BB,Online TA,TA/TO,0,0,0,C,No Deposit,Transient,0,222.5,0,1
+BK219345,2017-08-31,Resort Hotel,6,1,3,2,1.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,207.5,0,0
+BK219346,2017-08-31,Resort Hotel,45,2,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,174.0,0,1
+BK219347,2017-08-31,Resort Hotel,184,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,200.86,0,1
+BK219348,2017-08-31,Resort Hotel,29,2,5,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,175.0,0,0
+BK219349,2017-08-31,Resort Hotel,350,3,8,2,2.0,0,BB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,219.45,0,0
+BK219350,2017-08-31,Resort Hotel,1,0,1,2,0.0,0,BB,Complementary,Direct,1,0,1,A,No Deposit,Transient,0,0.0,0,1
+BK219351,2017-08-31,Resort Hotel,29,0,1,2,1.0,0,Undefined,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Group,0,204.0,1,2
+BK219352,2017-08-31,Resort Hotel,10,0,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,175.0,0,2
+BK219353,2017-08-31,Resort Hotel,23,0,1,2,0.0,0,BB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,217.0,0,2
+BK219354,2017-08-31,Resort Hotel,0,0,2,4,0.0,0,BB,Direct,Direct,0,0,0,H,No Deposit,Transient,0,244.0,1,0
+BK219355,2017-08-31,Resort Hotel,30,0,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,142.0,0,4
+BK219356,2017-08-31,Resort Hotel,30,0,2,1,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,191.0,1,3
+BK219357,2017-08-31,Resort Hotel,45,0,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,D,No Deposit,Transient,0,214.0,0,2
+BK219358,2017-08-31,Resort Hotel,40,0,2,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,180.0,0,3
+BK219359,2017-08-31,Resort Hotel,1,0,2,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,184.0,1,0
+BK219360,2017-08-31,Resort Hotel,2,0,3,2,0.0,0,Undefined,Direct,Direct,0,0,0,A,No Deposit,Transient,0,245.33,0,2
+BK219361,2017-08-31,Resort Hotel,46,0,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,127.2,0,1
+BK219362,2017-08-31,Resort Hotel,2,0,3,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient-Party,0,174.0,1,0
+BK219363,2017-08-31,Resort Hotel,2,0,3,2,2.0,0,BB,Direct,Direct,0,0,0,C,No Deposit,Transient-Party,0,200.0,0,2
+BK219364,2017-08-31,Resort Hotel,3,0,3,2,0.0,0,HB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,261.0,1,2
+BK219365,2017-08-31,Resort Hotel,17,0,3,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,207.0,0,3
+BK219366,2017-08-31,Resort Hotel,17,0,3,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient-Party,0,221.0,0,3
+BK219367,2017-08-31,Resort Hotel,19,0,3,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,165.6,0,0
+BK219368,2017-08-31,Resort Hotel,6,1,3,2,1.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,207.5,0,1
+BK219369,2017-08-31,Resort Hotel,51,2,3,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Contract,0,116.5,0,0
+BK219370,2017-08-31,Resort Hotel,64,2,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,F,No Deposit,Transient,0,187.19,0,1
+BK219371,2017-08-31,Resort Hotel,33,2,3,2,0.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,154.0,0,1
+BK219372,2017-08-31,Resort Hotel,30,2,3,2,0.0,0,HB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,149.45,0,1
+BK219373,2017-08-31,Resort Hotel,206,2,4,3,0.0,0,BB,Direct,Direct,0,0,0,D,No Deposit,Transient,0,209.67,1,1
+BK219374,2017-08-31,Resort Hotel,43,2,4,1,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,158.53,0,0
+BK219375,2017-08-31,Resort Hotel,151,2,5,2,0.0,0,BB,Direct,Direct,0,0,0,A,No Deposit,Transient,0,167.43,0,0
+BK219376,2017-08-31,Resort Hotel,301,2,5,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Transient,0,110.8,0,2
+BK219377,2017-08-31,Resort Hotel,21,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,E,No Deposit,Contract,0,101.7,0,2
+BK219378,2017-08-31,Resort Hotel,279,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Contract,0,72.2,0,1
+BK219379,2017-08-31,Resort Hotel,21,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,E,No Deposit,Contract,0,101.7,0,2
+BK219380,2017-08-31,Resort Hotel,279,2,5,2,0.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Contract,0,72.2,0,1
+BK219381,2017-08-31,Resort Hotel,191,2,5,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Contract,0,114.8,0,0
+BK219382,2017-08-31,Resort Hotel,108,2,5,2,0.0,0,HB,Online TA,TA/TO,0,0,0,E,No Deposit,Transient,0,207.03,0,1
+BK219383,2017-08-31,Resort Hotel,194,2,5,2,1.0,0,HB,Online TA,TA/TO,0,0,0,G,No Deposit,Transient,0,312.29,1,1
+BK219384,2017-08-31,Resort Hotel,227,2,5,2,1.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,127.58,0,1
+BK219385,2017-08-31,Resort Hotel,210,2,5,2,0.0,0,BB,Direct,Direct,0,0,0,F,No Deposit,Transient,0,187.0,0,1
+BK219386,2017-08-31,Resort Hotel,227,2,5,2,1.0,0,BB,Online TA,TA/TO,0,0,0,A,No Deposit,Transient,0,125.58,0,1
+BK219387,2017-08-31,Resort Hotel,217,2,7,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Contract,0,110.8,0,0
+BK219388,2017-08-31,Resort Hotel,212,2,8,2,1.0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,89.75,0,0
+BK219389,2017-08-31,Resort Hotel,211,4,10,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,D,No Deposit,Contract,0,112.8,0,1
+BK219390,2017-08-31,Resort Hotel,161,4,10,2,0.0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,No Deposit,Transient,0,99.06,0,0

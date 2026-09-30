@@ -1,0 +1,23 @@
+# MLproject: what `mlflow run` reads. Each entry point is a command this project offers.
+name: booking-cancellation
+
+python_env: python_env.yaml   # the environment the commands need
+
+entry_points:
+  # One configuration, given as parameters. The defaults are today's model.
+  train:
+    parameters:
+      learning_rate: {type: float, default: 0.1}
+      max_depth: {type: int, default: 6}
+      min_child_weight: {type: float, default: 1.0}
+      n_estimators: {type: int, default: 300}
+    command: >-
+      python train.py --learning-rate {learning_rate} --max-depth {max_depth}
+      --min-child-weight {min_child_weight} --n-estimators {n_estimators}
+      --run-name project-train
+
+  # A configuration taken from a run: a search's best_config.json, or a model's config.json.
+  retrain:
+    parameters:
+      config: {type: string}
+    command: "python train.py --config {config} --run-name project-retrain"
