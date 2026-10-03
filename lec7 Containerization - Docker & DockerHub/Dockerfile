@@ -19,3 +19,15 @@ COPY . /flask-loan-app
 # Make port 8000 available to the world outside this container
 CMD ["python", "-m", "flask", "--app", "hello.py", "run", "--host=0.0.0.0", "--port=8000"]
 
+
+#docker build -t oct3 .
+
+#docker run -p 9000:8000 oct3 first 8000 is the port on the host machine and second 8000 is the port inside the container.
+
+#docker image tag oct3:latest shivam13juna/oct3-live-demo:latest
+
+
+#docker pull shivam13juna/oct3-live-demo
+
+#docker run -p 9000:8000 oct3
+
